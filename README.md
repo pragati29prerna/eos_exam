@@ -1,1 +1,1 @@
-# eos_exam
+# EMBEDDED OPERATING SYSTEM EXAM
